@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(to right, #150747, #1a803c)no-repeat;
+    background: linear-gradient(to left, #150747, #1a803c)no-repeat;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -11,16 +11,17 @@ body {
 .container {
     width: 90%;
     margin: 50px auto;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 30px;
+
+    background: rgba(300, 300, 300, 0.1);
+    border-radius: 20px;
     box-shadow: 0 10px 20px rgba(2, 255, 234, 0.5);
     padding: 30px;
     transition: transform 0.3s;
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 .container:hover {
-    transform: scale(1.05);
+    transform: scale(1.03);
     box-shadow: 0 15px 30px rgba(2, 255, 234, 0.5);
     opacity: 1;
     transform: translateY(-20);
