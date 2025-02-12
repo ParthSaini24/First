@@ -20,7 +20,7 @@ body {
 }
 
 .container:hover {
-    transform: scale(1.02);
+    transform: scale(1.03);
     box-shadow: 0 15px 30px rgba(2, 255, 234, 0.5);
     opacity: 1;
     transform: translateY(-20);
