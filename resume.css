@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(to right, #150747, #1a803c)no-repeat;
+    background: linear-gradient(to left, #150747, #1a803c)no-repeat;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ body {
     box-shadow: 0 10px 20px rgba(2, 255, 234, 0.5);
     padding: 30px;
     transition: transform 0.3s;
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 .container:hover {
